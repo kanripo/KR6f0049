@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:57.286522
+#+DATE: 2015-08-30 20:01:59.171994
 #+TITLE: 如來莊嚴智慧光明入一切佛境界經
 #+PROPERTY: CBETA_ID T12n0357
 #+PROPERTY: ID KR6f0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 357
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0049_T_000-0239a>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0049_T_001-0239a> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.357[Nos.358,359]¶
-
- 《如來莊嚴智慧光明入一切佛境¶
+No. 357 [Nos. 358, 359]¶
+《如來莊嚴智慧光明入一切佛境¶
 界經》卷上¶
 ¶
 元魏天竺三藏曇摩流支譯¶
